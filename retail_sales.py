@@ -1,4 +1,3 @@
-# Ensure plots are displayed inline in Jupyter Notebooks
 %matplotlib inline
 
 import pandas as pd
@@ -90,7 +89,6 @@ plt.show()
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-# Assuming 'data' is your DataFrame
 
 # For Age vs. Total_Amount
 plt.figure(figsize=(10, 6))

@@ -1,5 +1,7 @@
 # Retail Sales Analysis
 
+![Retail Sales Analysis](https://cdn.mos.cms.futurecdn.net/MjXsQkv3nhUW34zp3gg8Ki.jpg)
+
 This project analyzes retail sales data to gain insights into various aspects such as overall sales trend, sales by product category, purchases by gender, age distribution of customers, and provides sales forecasting using ARIMA models. Additionally, correlations between certain features and total sales are examined.
 
 ## Dataset
